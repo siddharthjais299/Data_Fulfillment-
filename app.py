@@ -162,14 +162,7 @@ def get_city_coordinates(cities):
     UPDATED to include Delhi, Mumbai, Bangalore, Pune, Dubai, Bangkok, and Singapore.
     """
 
-    # --- DEBUGGING LINE ADDED HERE ---
-    st.subheader("⚠️ Debug: Cities Extracted from CSV Data")
-    st.write("The following city names were extracted from your 'Origin' and 'Destination' columns:")
-    st.write(cities)
-    st.write(
-        "If the cities listed below do not match the keys in the 'coords' dictionary (e.g., 'Mumbai' vs 'mumbai'), you have a mismatch.")
-    st.markdown("---")
-    # ---------------------------------
+
 
     coords = {
         'Mumbai': (19.0760, 72.8777),
