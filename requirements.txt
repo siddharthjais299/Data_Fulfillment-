@@ -39,5 +39,6 @@ urllib3==2.5.0
 watchdog==6.0.0
 matplotlib
 streamlit-option-menu
-
+sklearn
 seaborn
+
