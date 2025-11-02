@@ -1,5 +1,7 @@
 # 📦 Dynamic Fulfillment Optimizer
 
+deployded URL link -https://data-fulfillment-6.onrender.com
+
 The Dynamic Fulfillment Optimizer is an interactive web application built with Streamlit that analyzes logistics data and predicts order delivery outcomes. It provides a comprehensive dashboard for visualizing key performance indicators, exploring raw data, and simulating delivery statuses using a pre-trained Random Forest model.
 
 This tool is designed for logistics managers, data analysts, and supply chain professionals to gain insights into their fulfillment network, identify bottlenecks, assess carrier performance, and make data-driven decisions to improve on-time delivery rates.
